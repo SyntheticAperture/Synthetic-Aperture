@@ -1,0 +1,17 @@
+/*This class is used to create headers to go back to the previous page ("smogon" page style)*/
+.smogon-page-header {
+  display: flex;
+  align-items: center;
+  position: relative;
+  justify-content: center;
+}
+
+.smogon-page-header h1 {
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+/*This class is used to create the back-link ("smogon" paeg style)*/
+.smogon-back-link {
+  position: absolute;
+  left: 42px;
+}
